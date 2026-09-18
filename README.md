@@ -18,11 +18,11 @@
 
 ## `01 // ABOUT`
 
-I'm a Computer Science graduate who enjoys turning ideas into functional and interactive web experiences.
+I'm a Computer Science graduate focused on building modern web applications and interactive digital experiences.
 
-My development journey is focused on **JavaScript, React, full-stack web development and interactive 3D experiences**.
+My development journey is centered around **JavaScript, React, full-stack web development and interactive 3D experiences**.
 
-I enjoy experimenting with new ideas, building practical projects and continuously improving the way I write and structure applications.
+I also use AI-powered development tools as part of my workflow for **exploration, problem solving, prototyping, debugging and development assistance**.
 
 ---
 
@@ -93,7 +93,27 @@ The concept is focused on allowing users to preview curtains within their real e
 
 ---
 
-## `04 // PROJECT ARCHIVE`
+## `04 // AI DEVELOPMENT TOOLS`
+
+<div align="center">
+
+### AI tools I work with
+
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+
+</div>
+
+I use AI-assisted development tools for:
+
+`Problem Solving` • `Debugging` • `Prototyping` • `Code Exploration` • `Learning` • `Development Assistance`
+
+---
+
+## `05 // PROJECT ARCHIVE`
 
 Some of the projects and experiments I've worked on:
 
@@ -110,7 +130,7 @@ More projects will be added and documented as I continue developing them.
 
 ---
 
-## `05 // DEVELOPMENT PHILOSOPHY`
+## `06 // DEVELOPMENT PHILOSOPHY`
 
 ```text
 BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE  →  REPEAT
