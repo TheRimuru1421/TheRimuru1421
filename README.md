@@ -77,7 +77,7 @@ The concept is focused on allowing users to preview curtains within their real e
 
 ### Database & Services
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### 3D / Interactive Web
 
