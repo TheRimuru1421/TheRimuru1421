@@ -1,110 +1,133 @@
-# 👋 Hi, I'm Naveen S
+<div align="center">
 
-### MERN Stack Developer
+# NAVEEN S
 
-I'm a Computer Science graduate focused on building modern web applications with **JavaScript, React and the MERN stack**.
+### `MERN STACK DEVELOPER`
 
-I enjoy creating interactive user experiences and exploring technologies such as **Three.js, React Three Fiber and WebXR**.
+**Building modern, interactive and scalable web experiences with JavaScript, React and the MERN stack.**
 
----
+<br>
 
-## 🚀 Currently Building
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TheRimuru1421)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-s-129ba52ab/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRimuru1421)
 
-### 🪟 3D / WebAR Curtain Preview
-
-I'm currently working on an interactive curtain visualization project that explores how **3D and camera-based AR experiences** can be used for real-world interior products.
-
-**Exploring:**
-
-`React` `Three.js` `React Three Fiber` `WebXR` `JavaScript`
-
-The goal is to create an experience where users can view curtains in their real environment through their device camera.
+</div>
 
 ---
 
-## 🖥️ Developer Portfolio
+## `01 // ABOUT`
 
-I'm building my personal developer portfolio as a showcase of my projects, skills and development journey.
+I'm a Computer Science graduate who enjoys turning ideas into functional and interactive web experiences.
 
-The portfolio includes an interactive **3D/HUD-inspired interface** and a digital assistant called **NOVA**.
+My development journey is focused on **JavaScript, React, full-stack web development and interactive 3D experiences**.
 
-### 🤖 NOVA
-
-**NOVA — Naveen's Operational Virtual Assistant**
-
-NOVA is a digital assistant system integrated into my portfolio.
-
-It is designed to help visitors explore my:
-
-- Projects
-- Skills
-- Developer information
-- Portfolio content
-
-The portfolio also includes a protected admin area for managing portfolio contacts and other internal functionality.
-
-**Built with:**
-
-`React` `Node.js` `Express.js` `Firebase`
+I enjoy experimenting with new ideas, building practical projects and continuously improving the way I write and structure applications.
 
 ---
 
-## 🛠️ Technologies
+## `02 // SELECTED WORK`
+
+### ◈ Developer Portfolio
+
+My personal developer portfolio built around an interactive futuristic interface.
+
+**Highlights**
+
+- Interactive 3D environment
+- Holographic / HUD-inspired interface
+- Project showcase
+- Protected admin system
+- Contact management
+- Interactive animations
+
+### ◈ NOVA — Naveen's Operational Virtual Assistant
+
+A digital assistant system integrated into my developer portfolio.
+
+NOVA is designed to help visitors explore my portfolio, projects and developer information while providing a futuristic assistant experience.
+
+**System includes**
+
+- Assistant interface
+- Firebase owner authentication
+- Protected admin command center
+- Contact management
+- Portfolio integration
+
+### ◈ 3D Curtain / WebAR Experience
+
+An interactive project exploring the use of **3D and camera-based augmented reality** for curtain visualization.
+
+The concept is focused on allowing users to preview curtains within their real environment.
+
+---
+
+## `03 // TECHNOLOGIES`
+
+<div align="center">
 
 ### Frontend
 
-`HTML` `CSS` `JavaScript` `React`
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Backend
 
-`Node.js` `Express.js`
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Database / Services
+### Database & Services
 
-`MongoDB` `Firebase`
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
-### 3D & Interactive Web
+### 3D / Interactive Web
 
-`Three.js` `React Three Fiber` `WebXR`
+<img src="https://skillicons.dev/icons?i=threejs" />
 
-### Tools
+`React Three Fiber` • `WebXR`
 
-`Git` `GitHub` `VS Code`
+### Development Tools
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-## 📚 Currently Learning
-
-- JavaScript fundamentals
-- Problem solving & DSA
-- React development
-- MERN stack development
-- Backend API development
-- Authentication & authorization
-- Three.js & React Three Fiber
-- WebXR / WebAR
-- Building production-ready applications
+</div>
 
 ---
 
-## 🚀 Projects
+## `04 // PROJECT ARCHIVE`
 
-I'm gradually adding and improving my projects here.
+Some of the projects and experiments I've worked on:
 
-More projects will be added as I complete and organize them.
+| Project | Focus |
+|---|---|
+| 🎵 **Lyricaproject** | Lyrics / music web experience |
+| 🎧 **Musicwebsite** | Music-focused frontend project |
+| 📅 **Event** | Event-based web application |
+| 🖥️ **Developer Portfolio** | Interactive 3D developer portfolio |
+| 🤖 **NOVA** | Portfolio digital assistant |
+| 🪟 **3D Curtain / WebAR** | 3D & AR visualization |
+
+More projects will be added and documented as I continue developing them.
 
 ---
 
-## 🔗 Connect With Me
+## `05 // DEVELOPMENT PHILOSOPHY`
 
-**LinkedIn:**  
-https://www.linkedin.com/in/naveen-s-129ba52ab
+```text
+BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE  →  REPEAT
+```
 
-**GitHub:**  
-https://github.com/TheRimuru1421
+I believe the best way to learn development is by building real things, solving problems and improving through iteration.
 
 ---
 
-### ⚡ Building. Learning. Improving.
+<div align="center">
 
-Thanks for visiting my profile! 🚀
+### `NAVEEN.S // DEVELOPER PROFILE`
+
+**Code • Create • Experiment • Improve**
+
+<br>
+
+⭐ Thanks for visiting my profile.
+
+</div>
